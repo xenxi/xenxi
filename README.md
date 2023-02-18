@@ -18,9 +18,9 @@
 ![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxenxi1212%2Fhit-counter) 
 <p align="center">
 <picture >
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-  <img alt="github-snake" src="github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="assets/github-contribution-grid-snake.svg">
 </picture>
 <!-- ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=xenxi)  -->
 <!-- 
