@@ -23,8 +23,8 @@
 > 🌱 I’m currently learning `Flutter` and `Vue` <br>
 > 👯 I’m looking to collaborate on open-source projects<br>
 > 💬 Ping me about: `tech`, `software design`, `clean code`, `testing`, `math`, `music 🎸`<br>
-> 📫 How to reach me [![Website shields.io](https://img.shields.io/badge/xenxi%230708-5865F2.svg?logo=discord&logoColor=white)](https://discordapp.com/users/xenxi#0708) [![Website shields.io](https://img.shields.io/badge/antoniom.diaz.moreno-EA4335.svg?logo=gmail&logoColor=white)](mailto:antoniom.diaz.moreno@gmail.com) [![Website shields.io](https://img.shields.io/badge/amdiaz-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-manuel-d%C3%ADaz-moreno/) <br>
 >⚡ Fun fact: In the Dungeons & Dragons role-playing game, characters who drink magical ☕ can gain a temporary bonus to their wisdom statistic <br>
+> 📫 How to reach me [![Website shields.io](https://img.shields.io/badge/xenxi%230708-5865F2.svg?logo=discord&logoColor=white)](https://discordapp.com/users/xenxi#0708) [![Website shields.io](https://img.shields.io/badge/antoniom.diaz.moreno-EA4335.svg?logo=gmail&logoColor=white)](mailto:antoniom.diaz.moreno@gmail.com) [![Website shields.io](https://img.shields.io/badge/amdiaz-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-manuel-d%C3%ADaz-moreno/) <br>
 ---
 <p align="center">
 <picture >
