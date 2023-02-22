@@ -28,7 +28,7 @@
 ---
 #### 👨‍💻 Ready to show off your tech skills? Hit in your console or terminal, let the magic happen, and connect with me like a boss 👇
 
-``` node
+``` 
  npx amdiaz
 ```
 #### assuming, of course, that you've already got node up and running! 😁🤞
