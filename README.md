@@ -31,7 +31,7 @@
 ``` 
  npx amdiaz
 ```
-#### assuming, of course, that you've already got node up and running! 😁🤞
+*assuming, of course, that you've already got node up and running!* 😁🤞
 
 <p align="center">
 <picture >
