@@ -26,6 +26,13 @@
 >⚡ Fun fact: In the Dungeons & Dragons role-playing game, characters who drink magical ☕ can gain a temporary bonus to their wisdom statistic <br>
 > 📫 How to reach me [![Website shields.io](https://img.shields.io/badge/xenxi%230708-5865F2.svg?logo=discord&logoColor=white)](https://discordapp.com/users/xenxi#0708) [![Website shields.io](https://img.shields.io/badge/antoniom.diaz.moreno-EA4335.svg?logo=gmail&logoColor=white)](mailto:antoniom.diaz.moreno@gmail.com) [![Website shields.io](https://img.shields.io/badge/amdiaz-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-manuel-d%C3%ADaz-moreno/) [![Website shields.io](https://img.shields.io/badge/schedule%20a%20meeting-00897B.svg?logo=googlemeet&logoColor=white)](https://calendly.com/antoniom-diaz-moreno/30min) <br>
 ---
+#### 👨‍💻 Ready to show off your tech skills? Hit in your console or terminal, let the magic happen, and connect with me like a boss 👇
+
+``` node
+ npx amdiaz
+```
+#### assuming, of course, that you've already got node up and running! 😁🤞
+
 <p align="center">
 <picture >
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xenxi/xenxi/output/github-contribution-grid-snake-dark.svg">
